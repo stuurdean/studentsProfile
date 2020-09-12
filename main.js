@@ -592,7 +592,7 @@ class Details {
                         "bio": "Software developers are the creative minds behind software programs, and they have the technical skills to build those programs or to oversee their creation by a team.",
                         "email": "johnlestoala@gmail.com",
                         "phone": "071000000",
-                        "pic": "/assets/img001.jpg"
+                        "pic": "././assets/img001.jpg"
                     },
                     {
                         "stdID": "0002",
@@ -600,7 +600,7 @@ class Details {
                         "bio": "A Web Developer is responsible for the coding, design and layout of a website according to a company's specifications.",
                         "email": "AndrewDon@gmail.com",
                         "phone": "072000000",
-                        "pic": "/assets/img002.jpg"
+                        "pic": "././assets/img002.jpg"
                     },
                     {
                         "stdID": "0003",
@@ -608,7 +608,7 @@ class Details {
                         "bio": "Full Stack Developers are computer programmers who are proficient in both front and back end coding.",
                         "email": "RashidMohamed@gmail.com",
                         "phone": "073000000",
-                        "pic": "/assets/img003.jpg"
+                        "pic": "././assets/img003.jpg"
                     },
                     {
                         "stdID": "0004",
@@ -624,7 +624,7 @@ class Details {
                         "bio": "Testing. System testers test software. ... When performing manual testing, system testers make notes so they can provide the exact method to duplicate a defect.",
                         "email": "MaryjanePotgiter@gmail.com",
                         "phone": "075000000",
-                        "pic": "./studentsProfile/assets/img005.jpg"
+                        "pic": "././assets/img005.jpg"
                     },
                     {
                         "stdID": "0006",
@@ -632,7 +632,7 @@ class Details {
                         "bio": "Network administrators are responsible for maintaining computer networks and solving any problems that may occur with them.",
                         "email": "Daniel Monyai@gmail.com",
                         "phone": "076000000",
-                        "pic": "/assets/img006.jpg"
+                        "pic": "././assets/img006.jpg"
                     },
                 ],
                 "Subject": [
